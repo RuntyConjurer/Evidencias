@@ -1,0 +1,15 @@
+C:\Users\angel\source\repos\Evidencias\Evidencias3\bin\Debug\net8.0\Evidencias3.exe
+C:\Users\angel\source\repos\Evidencias\Evidencias3\bin\Debug\net8.0\Evidencias3.deps.json
+C:\Users\angel\source\repos\Evidencias\Evidencias3\bin\Debug\net8.0\Evidencias3.runtimeconfig.json
+C:\Users\angel\source\repos\Evidencias\Evidencias3\bin\Debug\net8.0\Evidencias3.dll
+C:\Users\angel\source\repos\Evidencias\Evidencias3\bin\Debug\net8.0\Evidencias3.pdb
+C:\Users\angel\source\repos\Evidencias\Evidencias3\obj\Debug\net8.0\Evidencias3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\Evidencias\Evidencias3\obj\Debug\net8.0\Evidencias3.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\Evidencias\Evidencias3\obj\Debug\net8.0\Evidencias3.AssemblyInfo.cs
+C:\Users\angel\source\repos\Evidencias\Evidencias3\obj\Debug\net8.0\Evidencias3.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Evidencias\Evidencias3\obj\Debug\net8.0\Evidencias3.sourcelink.json
+C:\Users\angel\source\repos\Evidencias\Evidencias3\obj\Debug\net8.0\Evidencias3.dll
+C:\Users\angel\source\repos\Evidencias\Evidencias3\obj\Debug\net8.0\refint\Evidencias3.dll
+C:\Users\angel\source\repos\Evidencias\Evidencias3\obj\Debug\net8.0\Evidencias3.pdb
+C:\Users\angel\source\repos\Evidencias\Evidencias3\obj\Debug\net8.0\Evidencias3.genruntimeconfig.cache
+C:\Users\angel\source\repos\Evidencias\Evidencias3\obj\Debug\net8.0\ref\Evidencias3.dll
