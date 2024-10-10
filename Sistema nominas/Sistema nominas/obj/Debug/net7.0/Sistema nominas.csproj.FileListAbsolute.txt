@@ -1,0 +1,17 @@
+C:\Users\angel\source\repos\Sistema nominas\Sistema nominas\bin\Debug\net7.0\Sistema nominas.exe
+C:\Users\angel\source\repos\Sistema nominas\Sistema nominas\bin\Debug\net7.0\Sistema nominas.deps.json
+C:\Users\angel\source\repos\Sistema nominas\Sistema nominas\bin\Debug\net7.0\Sistema nominas.runtimeconfig.json
+C:\Users\angel\source\repos\Sistema nominas\Sistema nominas\bin\Debug\net7.0\Sistema nominas.dll
+C:\Users\angel\source\repos\Sistema nominas\Sistema nominas\bin\Debug\net7.0\Sistema nominas.pdb
+C:\Users\angel\source\repos\Sistema nominas\Sistema nominas\bin\Debug\net7.0\BetterConsoleTables.dll
+C:\Users\angel\source\repos\Sistema nominas\Sistema nominas\obj\Debug\net7.0\Sistema nominas.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\Sistema nominas\Sistema nominas\obj\Debug\net7.0\Sistema nominas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\Sistema nominas\Sistema nominas\obj\Debug\net7.0\Sistema nominas.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\Sistema nominas\Sistema nominas\obj\Debug\net7.0\Sistema nominas.AssemblyInfo.cs
+C:\Users\angel\source\repos\Sistema nominas\Sistema nominas\obj\Debug\net7.0\Sistema nominas.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Sistema nominas\Sistema nominas\obj\Debug\net7.0\Sistema .AE03A9E1.Up2Date
+C:\Users\angel\source\repos\Sistema nominas\Sistema nominas\obj\Debug\net7.0\Sistema nominas.dll
+C:\Users\angel\source\repos\Sistema nominas\Sistema nominas\obj\Debug\net7.0\refint\Sistema nominas.dll
+C:\Users\angel\source\repos\Sistema nominas\Sistema nominas\obj\Debug\net7.0\Sistema nominas.pdb
+C:\Users\angel\source\repos\Sistema nominas\Sistema nominas\obj\Debug\net7.0\Sistema nominas.genruntimeconfig.cache
+C:\Users\angel\source\repos\Sistema nominas\Sistema nominas\obj\Debug\net7.0\ref\Sistema nominas.dll

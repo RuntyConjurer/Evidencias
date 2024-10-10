@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Sistema nominas/1.0.0": {
+        "dependencies": {
+          "BetterConsoleTables": "1.1.2"
+        },
+        "runtime": {
+          "Sistema nominas.dll": {}
+        }
+      },
+      "BetterConsoleTables/1.1.2": {
+        "runtime": {
+          "lib/netstandard2.0/BetterConsoleTables.dll": {
+            "assemblyVersion": "1.1.2.0",
+            "fileVersion": "1.1.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema nominas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BetterConsoleTables/1.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LA96cy2jgFF6r3oy+TnMKl9/0Xjs9T3lp+zRAAxlAoIe+Zbz1OEAIufl56BCC4AFI39/tipKjZudPrmegxozpQ==",
+      "path": "betterconsoletables/1.1.2",
+      "hashPath": "betterconsoletables.1.1.2.nupkg.sha512"
+    }
+  }
+}
