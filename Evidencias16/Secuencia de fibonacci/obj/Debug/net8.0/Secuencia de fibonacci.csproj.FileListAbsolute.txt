@@ -1,0 +1,14 @@
+C:\Users\RuntyConjurer\source\repos\Secuencia de fibonacci\Secuencia de fibonacci\bin\Debug\net8.0\Secuencia de fibonacci.exe
+C:\Users\RuntyConjurer\source\repos\Secuencia de fibonacci\Secuencia de fibonacci\bin\Debug\net8.0\Secuencia de fibonacci.deps.json
+C:\Users\RuntyConjurer\source\repos\Secuencia de fibonacci\Secuencia de fibonacci\bin\Debug\net8.0\Secuencia de fibonacci.runtimeconfig.json
+C:\Users\RuntyConjurer\source\repos\Secuencia de fibonacci\Secuencia de fibonacci\bin\Debug\net8.0\Secuencia de fibonacci.dll
+C:\Users\RuntyConjurer\source\repos\Secuencia de fibonacci\Secuencia de fibonacci\bin\Debug\net8.0\Secuencia de fibonacci.pdb
+C:\Users\RuntyConjurer\source\repos\Secuencia de fibonacci\Secuencia de fibonacci\obj\Debug\net8.0\Secuencia de fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RuntyConjurer\source\repos\Secuencia de fibonacci\Secuencia de fibonacci\obj\Debug\net8.0\Secuencia de fibonacci.AssemblyInfoInputs.cache
+C:\Users\RuntyConjurer\source\repos\Secuencia de fibonacci\Secuencia de fibonacci\obj\Debug\net8.0\Secuencia de fibonacci.AssemblyInfo.cs
+C:\Users\RuntyConjurer\source\repos\Secuencia de fibonacci\Secuencia de fibonacci\obj\Debug\net8.0\Secuencia de fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\RuntyConjurer\source\repos\Secuencia de fibonacci\Secuencia de fibonacci\obj\Debug\net8.0\Secuencia de fibonacci.dll
+C:\Users\RuntyConjurer\source\repos\Secuencia de fibonacci\Secuencia de fibonacci\obj\Debug\net8.0\refint\Secuencia de fibonacci.dll
+C:\Users\RuntyConjurer\source\repos\Secuencia de fibonacci\Secuencia de fibonacci\obj\Debug\net8.0\Secuencia de fibonacci.pdb
+C:\Users\RuntyConjurer\source\repos\Secuencia de fibonacci\Secuencia de fibonacci\obj\Debug\net8.0\Secuencia de fibonacci.genruntimeconfig.cache
+C:\Users\RuntyConjurer\source\repos\Secuencia de fibonacci\Secuencia de fibonacci\obj\Debug\net8.0\ref\Secuencia de fibonacci.dll
