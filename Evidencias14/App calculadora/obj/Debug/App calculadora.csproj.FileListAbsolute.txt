@@ -1,0 +1,10 @@
+C:\Users\RuntyConjurer\source\repos\App calculadora\App calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\RuntyConjurer\source\repos\App calculadora\App calculadora\bin\Debug\Calculadora.exe
+C:\Users\RuntyConjurer\source\repos\App calculadora\App calculadora\bin\Debug\Calculadora.pdb
+C:\Users\RuntyConjurer\source\repos\App calculadora\App calculadora\obj\Debug\App calculadora.csproj.AssemblyReference.cache
+C:\Users\RuntyConjurer\source\repos\App calculadora\App calculadora\obj\Debug\App_calculadora.Form1.resources
+C:\Users\RuntyConjurer\source\repos\App calculadora\App calculadora\obj\Debug\App_calculadora.Properties.Resources.resources
+C:\Users\RuntyConjurer\source\repos\App calculadora\App calculadora\obj\Debug\App calculadora.csproj.GenerateResource.cache
+C:\Users\RuntyConjurer\source\repos\App calculadora\App calculadora\obj\Debug\App calculadora.csproj.CoreCompileInputs.cache
+C:\Users\RuntyConjurer\source\repos\App calculadora\App calculadora\obj\Debug\Calculadora.exe
+C:\Users\RuntyConjurer\source\repos\App calculadora\App calculadora\obj\Debug\Calculadora.pdb
