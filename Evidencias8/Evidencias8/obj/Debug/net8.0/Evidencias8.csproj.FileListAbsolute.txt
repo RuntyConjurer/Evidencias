@@ -1,0 +1,14 @@
+C:\Users\RuntyConjurer\source\repos\Evidencias8\Evidencias8\bin\Debug\net8.0\Evidencias8.exe
+C:\Users\RuntyConjurer\source\repos\Evidencias8\Evidencias8\bin\Debug\net8.0\Evidencias8.deps.json
+C:\Users\RuntyConjurer\source\repos\Evidencias8\Evidencias8\bin\Debug\net8.0\Evidencias8.runtimeconfig.json
+C:\Users\RuntyConjurer\source\repos\Evidencias8\Evidencias8\bin\Debug\net8.0\Evidencias8.dll
+C:\Users\RuntyConjurer\source\repos\Evidencias8\Evidencias8\bin\Debug\net8.0\Evidencias8.pdb
+C:\Users\RuntyConjurer\source\repos\Evidencias8\Evidencias8\obj\Debug\net8.0\Evidencias8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RuntyConjurer\source\repos\Evidencias8\Evidencias8\obj\Debug\net8.0\Evidencias8.AssemblyInfoInputs.cache
+C:\Users\RuntyConjurer\source\repos\Evidencias8\Evidencias8\obj\Debug\net8.0\Evidencias8.AssemblyInfo.cs
+C:\Users\RuntyConjurer\source\repos\Evidencias8\Evidencias8\obj\Debug\net8.0\Evidencias8.csproj.CoreCompileInputs.cache
+C:\Users\RuntyConjurer\source\repos\Evidencias8\Evidencias8\obj\Debug\net8.0\Evidencias8.dll
+C:\Users\RuntyConjurer\source\repos\Evidencias8\Evidencias8\obj\Debug\net8.0\refint\Evidencias8.dll
+C:\Users\RuntyConjurer\source\repos\Evidencias8\Evidencias8\obj\Debug\net8.0\Evidencias8.pdb
+C:\Users\RuntyConjurer\source\repos\Evidencias8\Evidencias8\obj\Debug\net8.0\Evidencias8.genruntimeconfig.cache
+C:\Users\RuntyConjurer\source\repos\Evidencias8\Evidencias8\obj\Debug\net8.0\ref\Evidencias8.dll
